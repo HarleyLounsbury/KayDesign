@@ -1,0 +1,143 @@
+/*
+Couleurs:
+rose: #fdd9f8
+bleu: #b0f9fb
+blanc: #ffffff
+gris: #dddddd
+jaune: #f2d55e
+*/
+.container
+{
+	max-width: 80%;
+}
+
+
+#navmenu
+{
+	background-color: #b0f9fb;
+}
+
+.entete
+{
+	background-color: #fdd9f8;
+}
+
+.hidecontentlinks
+{
+	color: black;
+}
+
+.hidecontentlinks:hover
+{
+	color: black;
+	text-decoration: none;
+}
+
+#membresdequipe
+{
+	color: black;
+	text-decoration: underline;
+	font-size: 1.25em;
+}
+
+.membre
+{
+	color: black;
+	font-size: 1em;
+}
+
+#apropos
+{
+	background-color: #dddddd;
+	display: none;
+}
+
+#contact
+{
+	background-color: #dddddd;
+	display: none;
+}
+
+#footer
+{
+	background-color: #b0f9fb;
+}
+
+.listesfooter
+{
+	list-style: none;
+	padding: 0px;
+}
+
+tbody
+{
+	background-color: #fdd9f8;
+}
+
+.tablebody:tr:hover
+{
+	background-color: #fdd9f8;
+}
+
+thead, tfoot
+{
+	background-color: #f2d55e;
+}
+
+.pagelink
+{
+	color: black;
+	text-decoration: underline;
+}
+
+.pagelink:hover
+{
+	color: black;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.pagelink:visited
+{
+	color: hotpink;
+}
+
+.anchorlinks
+{
+	color: black;
+	text-decoration: underline;
+}
+
+.anchorlinks:hover
+{
+	color: black;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+#essentiel
+{
+	font-style: italic;
+	font-family: Parkavenue, cursive;
+}
+
+#essentiel h3
+{
+	text-decoration: underline;
+}
+
+#styles
+{
+	font-style: italic;
+	font-family: Allen;
+}
+
+#styles h3
+{
+	text-decoration: underline;
+}
+
+
+	
+
+
